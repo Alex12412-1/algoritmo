@@ -29,7 +29,8 @@ public class Ejercicio_3 {
 
             if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u') {
                 System.out.println("La letra es una vocal.");
-            } else {
+            } else 
+            {
                 System.out.println("La letra es una consonante.");
             }
         } else {
